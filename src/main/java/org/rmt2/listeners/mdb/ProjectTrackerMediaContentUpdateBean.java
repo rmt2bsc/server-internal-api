@@ -17,7 +17,7 @@ import com.api.xml.RMT2XmlUtility;
 
 /**
  * Message-Driven Bean implementation class for media content updates targeting
- * the Project Tracker system
+ * the Project Tracker system.
  */
 @MessageDriven(
         activationConfig = {
